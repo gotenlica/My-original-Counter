@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PRACTICANDO/static/css/main.a3ec6612.css",
+    "main.js": "/PRACTICANDO/static/js/main.5bbf013d.js",
+    "static/js/787.3261119f.chunk.js": "/PRACTICANDO/static/js/787.3261119f.chunk.js",
+    "index.html": "/PRACTICANDO/index.html",
+    "main.a3ec6612.css.map": "/PRACTICANDO/static/css/main.a3ec6612.css.map",
+    "main.5bbf013d.js.map": "/PRACTICANDO/static/js/main.5bbf013d.js.map",
+    "787.3261119f.chunk.js.map": "/PRACTICANDO/static/js/787.3261119f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ec6612.css",
+    "static/js/main.5bbf013d.js"
+  ]
+}
